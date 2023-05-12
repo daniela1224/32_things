@@ -32,7 +32,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: true
   disableScrollToTop: true
-  comments: true
+  comments: false
   hidemeta: false
   hideSummary: true
   showtoc: false
